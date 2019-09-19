@@ -9,5 +9,4 @@ Redux-thunk is used for API calls.
 # Server
 Express.js was used as a server.
 jwt(json web tokens are used for user verification on every api call)
-
-
+MongoDB database. 
